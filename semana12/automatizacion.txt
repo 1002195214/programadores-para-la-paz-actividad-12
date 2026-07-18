@@ -1,0 +1,9 @@
+¿Qué evento activa la automatización?
+R/nuevo apoyo registrado en una peticion. 
+
+¿Qué mensaje se envía?
+R/un usuario ha apoyado tu peticion.
+
+¿Qué información no debe enviarse por seguridad?
+R/ cedula, correo personal, numero de telefono, direccion o otros
+datos privados.

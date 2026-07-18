@@ -1,0 +1,13 @@
+1. usuario
+- id
+- nombre
+- correo
+
+2. peticion
+- id
+- titulo
+- descripcion
+- usuario_id
+
+usuario: persona que usa el sistema.
+peticion: solicitud creada por el usuario.

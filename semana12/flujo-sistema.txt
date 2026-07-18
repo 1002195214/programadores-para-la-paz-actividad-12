@@ -1,0 +1,7 @@
+flujo del sistema peticion en 3 clics
+
+1. un ciudadano crea una peticion. 
+2. el sistema lo guarda y la publica 
+3. otros ciudadanos apoyan la peticion.
+4. el sistema cuenta los apoyos.
+5. se genera un documento con la peticion.
